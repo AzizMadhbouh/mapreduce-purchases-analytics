@@ -198,4 +198,6 @@ CDs             57410753.04      230039
 
 ## License
 
-MIT.
+Released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Mohamed Aziz Madhbouh.
